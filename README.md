@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Ofer :smiley: 3'rd year Computer Science student.
+
+- languages: • C • C++ • C# • Python • Java • Assembly • SQL
+- fields: • Algorithms • Computer Vision & Image Processing • Graph theory • Deep Learning
+- 📫 oferfr297@gmail.com
+- :computer: some of my work :computer:
+
+<img src="https://github.com/theFritzmeister/Augmented-Reality-Project/blob/main/ar.gif" width="300" height="200"> <img src="https://github.com/theFritzmeister/Lane-Detection/blob/main/ezgif.com-gif-maker.gif" width="300" height="200" />
+
+<img src="https://github.com/theFritzmeister/Chess-Detection-YOLOv3/blob/main/demo.gif" width="300" height="200" /><img src="https://github.com/theFritzmeister/Cell-Instance-Segmentation/blob/main/demo.png" width="300" height="200" />
 
 <!--
 **theFritzmeister/theFritzmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
